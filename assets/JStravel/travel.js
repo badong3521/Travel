@@ -17,15 +17,6 @@ const tourismIMG = $('.container__tourism')
 
 
 
-
-
-
-
-
-
-
-
-
 const app = {
         places :[
                 {

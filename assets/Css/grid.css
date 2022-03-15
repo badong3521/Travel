@@ -407,6 +407,9 @@
 }
 /* PC low resolution display */
 @media (min-width: 1024px) and (max-width:1239px) {
+    .nav__heading {
+        display: none;
+    }
     .wide {
         width: 984px;
     }

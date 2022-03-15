@@ -675,7 +675,6 @@ span.city-container__category {
     backface-visibility:visible ;
     background-attachment: scroll;
     width: 100%;
-    max-width: 1263px;
 }
 
 
@@ -688,6 +687,7 @@ span.city-container__category {
     z-index: 2;
     padding: 75px 0;
     background-color: rgba(0,0,0,0.3);
+    height: 100%;
 }
 .content__introduce-item h3 {
     font-size: 18px;
